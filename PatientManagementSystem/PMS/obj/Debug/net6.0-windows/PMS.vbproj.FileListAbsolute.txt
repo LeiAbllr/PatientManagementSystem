@@ -1,0 +1,32 @@
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\PMS.exe
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\PMS.deps.json
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\PMS.runtimeconfig.json
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\PMS.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\PMS.pdb
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.vbproj.AssemblyReference.cache
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.Form1.resources
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.Resources.resources
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.vbproj.GenerateResource.cache
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.AssemblyInfoInputs.cache
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.AssemblyInfo.vb
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.vbproj.CoreCompileInputs.cache
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\refint\PMS.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.pdb
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.genruntimeconfig.cache
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\ref\PMS.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.Form2.resources
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.Form3.resources
+C:\Users\abell\OneDrive\Desktop\PMS\PMS\obj\Debug\net6.0-windows\PMS.vbproj.CopyComplete
+D:\Files\Academics\CIS 203\PMS\PMS\obj\Debug\net6.0-windows\PMS.dll
+D:\Files\Academics\CIS 203\PMS\PMS\obj\Debug\net6.0-windows\refint\PMS.dll
+D:\Files\Academics\CIS 203\PMS\PMS\obj\Debug\net6.0-windows\PMS.pdb
